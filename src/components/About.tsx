@@ -1,4 +1,3 @@
-
 import React from 'react';
 import { Award, Clock, Users, CheckCircle } from 'lucide-react';
 
@@ -11,7 +10,7 @@ const stats = [
 
 const teamMembers = [
   {
-    name: 'Senior Partner',
+    name: '200+',
     role: 'Chartered Accountant',
     description: 'Lead partner with extensive experience in financial advisory and tax planning.',
     image: 'https://images.unsplash.com/photo-1605810230434-7631ac76ec81?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80'
